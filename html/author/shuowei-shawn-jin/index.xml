@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuowei (Shawn) Jin | Shuowei (Shawn)&#39;s HomePage</title>
+    <link>https://shuoweijin.netlify.app/author/shuowei-shawn-jin/</link>
+      <atom:link href="https://shuoweijin.netlify.app/author/shuowei-shawn-jin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuowei (Shawn) Jin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>`©`</copyright>
+    <image>
+      <url>https://shuoweijin.netlify.app/media/sharing.jpg</url>
+      <title>Shuowei (Shawn) Jin</title>
+      <link>https://shuoweijin.netlify.app/author/shuowei-shawn-jin/</link>
+    </image>
+    
+  </channel>
+</rss>

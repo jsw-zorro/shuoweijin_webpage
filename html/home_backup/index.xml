@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home_backups | Shuowei (Shawn)&#39;s HomePage</title>
+    <link>https://shuoweijin.netlify.app/home_backup/</link>
+      <atom:link href="https://shuoweijin.netlify.app/home_backup/index.xml" rel="self" type="application/rss+xml" />
+    <description>Home_backups</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>`©`</copyright>
+    <image>
+      <url>https://shuoweijin.netlify.app/media/sharing.jpg</url>
+      <title>Home_backups</title>
+      <link>https://shuoweijin.netlify.app/home_backup/</link>
+    </image>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://shuoweijin.netlify.app/home_backup/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.netlify.app/home_backup/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://shuoweijin.netlify.app/home_backup/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.netlify.app/home_backup/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://shuoweijin.netlify.app/home_backup/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.netlify.app/home_backup/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://shuoweijin.netlify.app/home_backup/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.netlify.app/home_backup/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://shuoweijin.netlify.app/home_backup/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.netlify.app/home_backup/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://shuoweijin.netlify.app/home_backup/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.netlify.app/home_backup/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>https://shuoweijin.netlify.app/home_backup/featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.netlify.app/home_backup/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://shuoweijin.netlify.app/home_backup/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.netlify.app/home_backup/publications/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Quickly discover relevant content by &lt;a href=&#34;./publication/&#34;&gt;filtering publications&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Popular Topics</title>
+      <link>https://shuoweijin.netlify.app/home_backup/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shuoweijin.netlify.app/home_backup/tags/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
