@@ -1,37 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shuowei (Shawn) Jin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student of Computer Science and Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Michigan
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests majorly lies in network system.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science and Engineering
+    institution: University of Michigan
+    year: 2020 - Now
+  - course: B.E. in Computer Science and Technology
+    institution: University of Science and Technology of China
+    year: 2016 - 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +37,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "mailto:jinsw@umich.edu"
+  #link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jsw-zorro
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/shuoweijin
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/shuoweijin
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "jinsw@umich.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,6 +71,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+This is Shuowei (Shawn) Jin. I am a first-year PhD Student of Computer Science and Engineering at the University of Michigan. My research interests mainly lie in the computer network and computer system domains. My advisor is Prof. [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/). Throughout my journey in research, I am also fortunate enough to collaborate with Prof. [Wei Gong](http://staff.ustc.edu.cn/~weigong/) and Prof. [Nanyun Peng](https://vnpeng.net/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before the start of my PhD journey, I studied in the [School of the Gifted Young](https://en.scgy.ustc.edu.cn/) at the [University of Science and Technology of China](http://en.ustc.edu.cn/), where I received my B.E. in Computer Science and Technology.
+
+
